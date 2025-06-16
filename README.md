@@ -2,9 +2,7 @@
 
 This project presents an interactive tool designed to help users evaluate current property listings in the Austin, Texas area through multiple analytical perspectives. Have fun exploring!
 
-*References*
-*YouTube tutorial : https://www.youtube.com/watch?v=rTmNK9vWN0g*
-
+References video : https://www.youtube.com/watch?v=rTmNK9vWN0g
 
 # Key Views Included
 **1. Summary View**
