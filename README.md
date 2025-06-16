@@ -1,4 +1,4 @@
-# PowerBI_Projects - Austin Housing Data Insights
+# PowerBI Project - Austin Housing Data Insights
 
 This project presents an interactive tool designed to help users evaluate current property listings in the Austin, Texas area through multiple analytical perspectives. Have fun exploring!
 
