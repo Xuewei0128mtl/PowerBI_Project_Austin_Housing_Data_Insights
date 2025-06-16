@@ -3,10 +3,11 @@
 This project presents an interactive tool designed to help users evaluate current property listings in the Austin, Texas area through multiple analytical perspectives. Have fun exploring!
 
 *References*
-YouTube tutorial : https://www.youtube.com/watch?v=rTmNK9vWN0g
+*YouTube tutorial : https://www.youtube.com/watch?v=rTmNK9vWN0g*
+
 
 # Key Views Included
-**1. Summary View
+**1. Summary View**
 Get a high-level overview of all current property listings in the Austin, Texas area.
 
 **2. Location View**
